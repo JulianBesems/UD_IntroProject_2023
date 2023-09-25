@@ -4,7 +4,7 @@ The central place for all material regarding the B-Pro UD introduction project f
 
 ----
 
-All meetings will be on Zoom (please join with your UCL account), details are on Teams. 
+All meetings will be on Zoom, details are on Teams. 
 
 ----
 # Schedule
