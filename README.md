@@ -8,7 +8,7 @@ All meetings will be on Zoom, details are on Teams.
 
 ----
 # Schedule
-__Monday__: 11:00 - 2/10: __Introduction__
+__Monday__: 14:00 - 2/10: __Introduction__
 
 - What is programming, Variables, Loops
     - Text based assignments for Wednesday
