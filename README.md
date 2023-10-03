@@ -10,6 +10,10 @@ All meetings will be on Zoom, details are on Teams.
 # Schedule
 __Monday__: 14:00 - 2/10: __Introduction__
 
+__Recording__
+https://ucl.zoom.us/rec/share/1UEa4OVSvDGR8TVTrk12rRrXxLz7aM9BI9hmr1sHCrZW7yjDJty5550rHzbqfbE9.haMQzIjoNmNM2mmk
+Passcode: `=M#dp#j8`
+
 - What is programming, Variables, Loops
     - Text based assignments for Wednesday
 
