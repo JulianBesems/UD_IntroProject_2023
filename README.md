@@ -24,6 +24,8 @@ __Wednesday__: 11:00 - 4/10: __Session 1__
 - Functions, Lists, Arrays, Read and Write to files
     - Instruct Wall-E Assignment for Friday
     - Text based assignment for Friday
+https://ucl.zoom.us/rec/share/hTDkqQ9Ai5YhopjxFXCxstywFB8kQCVltAqSo8dlGXZUhlufNouoJxjRI16LlZgx.v3nE3V4stuD9Sq-z
+Passcode: `^9Lp#eBy`
 
 __Thursday__: - 5/10: _seminar_
 - Help with questions
