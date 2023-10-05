@@ -30,7 +30,7 @@ Passcode: `^9Lp#eBy`
 __Thursday__: - 5/10: _seminar_
 - Help with questions
 
-__Friday__: TBD - 6/10: __Session 2__
+__Friday__: 11:00 - 6/10: __Session 2__
 - Web scraping in Selenium
     - Final web scraping assignment for Tuesday 10/10
 
