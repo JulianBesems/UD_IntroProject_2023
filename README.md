@@ -34,6 +34,14 @@ __Friday__: 11:00 - 6/10: __Session 2__
 - Web scraping in Selenium
     - Final web scraping assignment for Tuesday 10/10
 
+__Recording Part 1__
+https://ucl.zoom.us/rec/play/0U1iit1u7BV-dlC0ruakwyy_W1SosL-KC-whbQDVhZhnaTwm2mLsolezCHmIeBPfdcsWQkqMCxXYiodu.dLas201vMH3KRWBZ
+Passcode: `Z6A.uZu&`
+
+__Recording Part 2__
+https://ucl.zoom.us/rec/play/Ug3NCDqYoN9H74-_BcMzhd7LE1hAI-3za4_8CSgXvRlDVBqhpZthY2-2R-0KERBkZHl0D1r4J_5sx5NG.CumSgwOnN-S6D8mI
+Passcode: `Z6A.uZu&`
+
 __Monday__: - 9/10: _seminar_
 - Help with questions
 
